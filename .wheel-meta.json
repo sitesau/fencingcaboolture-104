@@ -1,0 +1,22 @@
+{
+  "wheel_id": 539,
+  "structure": "umbrella",
+  "slug": "fencingcaboolture-104",
+  "project": "fence-builders-caboolture-common-mistakes-b6a380ff8c974c75ddc31",
+  "parent_t1_ref": "fencingcaboolture-151",
+  "node_role": "feeder",
+  "money_target": "fencingcaboolture.com.au",
+  "primary_kw": "fence builders caboolture common mistakes",
+  "intended_url": "https://sitesau.github.io/fencingcaboolture-104/",
+  "tier": "T2",
+  "writeback_nonce": "3c84a8caa556d54c",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/fence-builders-caboolture-2abe0898241d217d0016b9f8ef670cfc5c0cb/",
+      "anchor": "Fence Builders Caboolture: fence builders",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
